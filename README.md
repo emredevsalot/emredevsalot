@@ -4,7 +4,7 @@ Hi 👋 My name is Emre
 A frontend developer who likes to develop fun little projects with various technologies/libraries in order to deepen knowledge in those fields. Passionate about making them easily comprehensible and accompanied by clear documentation, enabling people to understand and contribute to them effortlessly.
 
 * 🌍  I'm based in Izmir, Turkey
-* 🖥️  See my portfolio at [portfolio](http://portfolio.com)
+<!--* 🖥️  See my portfolio at [portfolio](http://portfolio.com)-->
 * ✉️  You can contact me at [emredevsalot@gmail.com](mailto:emredevsalot@gmail.com)
 
 ### Languages and Tools
