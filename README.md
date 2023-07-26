@@ -34,6 +34,7 @@ A frontend developer who likes to develop fun little projects with various techn
 
 |Project|About|
 |---|---|
+|[**Prompt Filler**](https://github.com/emredevsalot/prompt-filler)|  Prompt Filler is a user-friendly app that **simplifies the process of generating and completing prompts for ChatGPT**, saving you time and effort in crafting engaging and effective prompts for various purposes. |
 |[**Unusual Buildings**](https://github.com/emredevsalot/unusual-buildings)|  Unusual Buildings is a showcase of extraordinary and unique architectural wonders from around the world. I wanted to show my skills in creating a **multi-page application with smooth animations.** |
 |[**Scene Struggle**](https://github.com/emredevsalot/scene-struggle)|  Scene Struggle allows you to play mini-games based on your favorite YouTube channels. It allowed me to explore the **YouTube API** and integrate it into a web application. |
 |[**Gigachad Maker**](https://github.com/emredevsalot/gigachad-maker)|  Gigachad Maker allows you to create a 'Gigachad Meme' GIF by leveraging the power of the **Remotion framework for React.** |
