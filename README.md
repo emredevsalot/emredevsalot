@@ -1,10 +1,11 @@
 # Hi 👋 My name is Emre
 
-A frontend developer who likes to develop fun little projects with various technologies/libraries in order to deepen knowledge in those fields. Passionate about making them easily comprehensible and accompanied by clear documentation, enabling people to understand and contribute to them effortlessly.
+Enthusiastic frontend developer who likes to engage in **indie hacking projects** with a passion for delivering value to people. I'm committed to researching, selecting, and mastering the most appropriate technologies for each project's unique requirements. At the end of the day, **all technologies are just tools to solve problems.** I firmly believe in the power of **community,** actively fostering relationships with like-minded individuals to create an inclusive space for all.
 
 * 🌍  Based in Izmir, Turkey
 * 🖥️  See my portfolio at [emredevsalot.github.io](https://emredevsalot.github.io/)
-* ✉️  You can contact me at [emredevsalot@gmail.com](mailto:emredevsalot@gmail.com)
+* 🕴️  [LinkedIn](https://www.linkedin.com/in/emredevsalot/)
+* 🐦  [Twitter](https://twitter.com/emredevsalot)
 
 ### Languages and Tools
 ---
@@ -20,6 +21,7 @@ A frontend developer who likes to develop fun little projects with various techn
 <img src="https://www.svgrepo.com/show/335549/divider-big.svg" width="36" height="36" alt="" />
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" height="36" alt="Chakra UI" /></a>
 <img src="https://www.svgrepo.com/show/335549/divider-big.svg" width="36" height="36" alt="" />
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
@@ -36,8 +38,8 @@ A frontend developer who likes to develop fun little projects with various techn
 |Project|About|
 |---|---|
 |[**Prompt Filler**](https://github.com/emredevsalot/prompt-filler)|  Prompt Filler is a user-friendly app that **simplifies the process of generating and completing prompts for ChatGPT**, saving you time and effort in crafting engaging and effective prompts for various purposes. |
-|[**Unusual Buildings**](https://github.com/emredevsalot/unusual-buildings)|  Unusual Buildings is a showcase of extraordinary and unique architectural wonders from around the world. I wanted to show my skills in creating a **multi-page application with smooth animations.** |
+|[**Quit Smoking While Smoking**](https://github.com/emredevsalot/quit-smoking-while-smoking)|  A React Native app made with Expo that uses the exposure therapy method to reduce smoking **without anxiety.** (Android test APK at the very bottom). |
 |[**Scene Struggle**](https://github.com/emredevsalot/scene-struggle)|  Scene Struggle allows you to play mini-games based on your favorite YouTube channels. It allowed me to explore the **YouTube API** and integrate it into a web application. |
-|[**Gigachad Maker**](https://github.com/emredevsalot/gigachad-maker)|  Gigachad Maker allows you to create a 'Gigachad Meme' GIF by leveraging the power of the **Remotion framework for React.** |
+|[**Unusual Buildings**](https://github.com/emredevsalot/unusual-buildings)|  Unusual Buildings is a showcase of extraordinary and unique architectural wonders from around the world. I wanted to show my skills in creating a **multi-page application with smooth animations.** |
 
 
