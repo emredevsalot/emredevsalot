@@ -37,7 +37,7 @@ Enthusiastic frontend developer who likes to engage in **indie hacking projects*
 
 |Project|About|
 |---|---|
-|[**Cowork and Draw**](https://github.com/emredevsalot/cowork-and-draw)|  🚀 A pomodoro app with collaboration and creativity. |
+|[**Cowork and Draw**](https://github.com/emredevsalot/cowork-and-draw)|  🚀 A pomodoro app with **collaboration and creativity.** |
 |[**Prompt Filler**](https://github.com/emredevsalot/prompt-filler)|  Prompt Filler is a user-friendly app that **simplifies the process of generating and completing prompts for ChatGPT**, saving you time and effort in crafting engaging and effective prompts for various purposes. |
 |[**Quit Smoking While Smoking**](https://github.com/emredevsalot/quit-smoking-while-smoking)|  A React Native app made with Expo that uses the exposure therapy method to reduce smoking **without anxiety.** (Android test APK at the very bottom). |
 |[**Scene Struggle**](https://github.com/emredevsalot/scene-struggle)|  Scene Struggle allows you to play mini-games based on your favorite YouTube channels. It allowed me to explore the **YouTube API** and integrate it into a web application. |
