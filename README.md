@@ -1,11 +1,16 @@
 # Hi 👋 My name is Emre
 
-Enthusiastic frontend developer who likes to engage in **indie hacking projects** with a passion for delivering value to people. I'm committed to researching, selecting, and mastering the most appropriate technologies for each project's unique requirements. At the end of the day, **all technologies are just tools to solve problems.** I firmly believe in the power of **community,** actively fostering relationships with like-minded individuals to create an inclusive space for all.
+I’m an AR / Creative Developer who enjoys building interactive experiences that are creatively thoughtful.
+
+I build creative experiences that combine scripting, system design, and gamification with concept development and user-centered thinking. I’ve had the opportunity to collaborate with an amazing team on branded projects, while also independently creating and publishing my own Snapchat lenses.
+
+I’m especially motivated by learning and adaptability. Exploring new tools, experimenting with different workflows, and turning abstract ideas into engaging interactive moments is what excites me most.
+
+Currently, I’m also expanding into AI-driven creative tools for image, video, and interactive experience generation — exploring how emerging technologies can support immersive storytelling and shape the future of interactive design.
 
 * 🌍  Based in Izmir, Turkey
 * 🖥️  See my portfolio at [emredevsalot.github.io](https://emredevsalot.github.io/)
 * 🕴️  [LinkedIn](https://www.linkedin.com/in/emredevsalot/)
-* 🐦  [Twitter](https://twitter.com/emredevsalot)
 
 ### Languages and Tools
 ---
